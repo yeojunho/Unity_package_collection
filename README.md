@@ -18,5 +18,6 @@ ___
 5.에셋 폴더에 PlayerController.cs를 집어넣는다.<br>
 6.플래이어에 PlayerController.cs파일을 적용시킨다.<br>
 7.카메라를 플래이어의 자식으로 변경한다.<br>
-8.플래이어의 리지드바디 속성중 Freeze Rotation에서 x와 z를 체크한다.<br>
+8.카메라의 위치를 플래이어 위로 옴긴다.<br>
+9.플래이어의 리지드바디 속성중 Freeze Rotation에서 x와 z를 체크한다.<br>
 ___
