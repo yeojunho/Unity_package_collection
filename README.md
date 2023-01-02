@@ -9,4 +9,14 @@ ___
 - JumpForce : 점프하는 힘
 - LookSensitivity : 카메라 상하감도
 - CameraRotationLimit : 카메라 좌우감도
+
+##### 사용방법
+1.PlayerController.cs파일을 다운로드한다.
+2.땅을 생성한다.
+3.플래이어로 쓸 오브젝트를 생성한다.
+4.땅과 플래이어에 리지드 바디를 추가한다.
+5.에셋 폴더에 PlayerController.cs를 집어넣는다.
+6.플래이어에 PlayerController.cs파일을 적용시킨다.
+7.카메라를 플래이어의 자식으로 변경한다.
+8.플래이어의 리지드바디 속성중 Freeze Rotation에서 x와 z를 체크한다.
 ___
